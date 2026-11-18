@@ -1,0 +1,1 @@
+import{_ as t}from"./BxNJM9jg.js";import{_ as r,a as s,o as e,b as _}from"./fomZLCVz.js";const n={class:"c-work-thumbnail"},a={__name:"CommonWorkThumbnail",props:{src:{type:String,required:!0}},setup(o){return(m,i)=>{const c=t;return e(),s("div",n,[_(c,{class:"c-work-thumbnail__picture",src:o.src},null,8,["src"])])}}},l=r(a,[["__scopeId","data-v-dfb7539b"]]);export{l as _};

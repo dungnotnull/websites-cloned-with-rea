@@ -1,0 +1,1 @@
+import{_ as a,a as n,o,H as s,n as r}from"./fomZLCVz.js";const c={__name:"LayoutContainer",props:{size:{type:String,default:""}},setup(e){return(t,_)=>(o(),n("div",{class:r(["c-layout-container",e.size])},[s(t.$slots,"default",{},void 0)],2))}},i=a(c,[["__scopeId","data-v-83c96e43"]]);export{i as _};

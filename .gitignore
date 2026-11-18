@@ -1,0 +1,9 @@
+# local inspection artifacts (REA evidence, downloads, test runs)
+inspection/
+
+# white-label transform tooling (local only)
+_whitelabel/
+
+# OS noise
+Thumbs.db
+.DS_Store

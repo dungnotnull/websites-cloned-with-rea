@@ -1,0 +1,1 @@
+import{m as a,J as r}from"./fomZLCVz.js";const n=(o,e={})=>{a(()=>{const t=(o()||[]).filter(Boolean);t.length!==0&&r.fromTo(t,{opacity:0,y:24},{opacity:1,y:0,duration:.7,stagger:.09,delay:e.delay??.1,ease:"power2.out"})})};export{n as u};
